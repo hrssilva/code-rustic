@@ -20,7 +20,7 @@ The current state of the project is a demo for text editing in a buffer and some
  0 : should be done imediately. <br> 
  1 : is an essential feature. <br> 
  2 : is needed. <br> 
- 3 : will be done eventualy. <br>
+ 3 : will be done eventually. <br>
  4 : might not be implemented.
 
 
