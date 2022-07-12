@@ -6,7 +6,7 @@ Currently using tui-rs (https://github.com/fdehau/tui-rs) and crossterm (https:/
 
 The code base for this project is very poorly documented and unorganized, but the next commit should be a refactor of all the code base.
 
-The current state of the project is a demo for text editting in a buffer and some asynchronous testing for future development of an integrated terminal emulator.
+The current state of the project is a demo for text editing in a buffer and some asynchronous testing for future development of an integrated terminal emulator.
 
 ## TODO (by priority)
 * Code base refactoring. [0]
